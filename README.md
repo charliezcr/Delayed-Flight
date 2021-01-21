@@ -11,3 +11,4 @@ frequent than to and from Alaska and Guam, probably because of their famous tour
 
 ## Contents
 If you want to read the Tableau Code, please click [Tableau file](https://github.com/charliezcr/Visulazation-Delayed-Flight/blob/master/20150101USflights.twb)
+If you want to have a preview of the visualization, please go to the [website](https://charliezcr.github.io/projects.html#Tableauprojects)
